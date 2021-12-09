@@ -1,0 +1,10 @@
+vlan 300
+  name engineering
+vlan 350
+  name architecture
+vlan 400
+  name devops
+vlan 450
+  name cybersec
+vlan 500
+  name cloud
